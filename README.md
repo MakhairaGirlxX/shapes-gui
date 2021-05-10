@@ -15,6 +15,8 @@ and that the user is inputting the correct range of values (between 0 and 255).
 The last textbox returns the location of the currently drawn shape. This is recorded as an
 x and y axis obtained from the MouseEvent e or e.getX() and e.getY().
 
+Note* This program was created with Eclipse in java
+
 Screenshots:
 https://user-images.githubusercontent.com/83840115/117697679-571b2f00-b188-11eb-9139-c5ca40c21889.png
 
